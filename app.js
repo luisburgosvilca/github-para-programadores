@@ -1,1 +1,1 @@
-alert("Dios los bendiga mundo, cómo están?");
+alert("Dios los bendiga mundo, cómo están? ");
